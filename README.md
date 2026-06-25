@@ -147,7 +147,7 @@ Which department has the maximum number of employees?
 ## 📸 Screenshots
 
 
-```
+
 
 ![Home Page](assets/Home.png)
 
@@ -156,7 +156,7 @@ Which department has the maximum number of employees?
 
 
 ![Query 2](assets/query2.png)
-```
+
 
 ---
 
