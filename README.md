@@ -142,6 +142,18 @@ Which department has the maximum number of employees?
 4. The SQL query is executed on the selected database.
 5. Results are returned and displayed in the Streamlit interface.
 
+---
+
+## 📸 Screenshots
+
+
+```
+assets/Home.png
+assets/query1.png
+assets/query2.png
+```
+
+---
 
 
 ## 🔒 Supported Databases
