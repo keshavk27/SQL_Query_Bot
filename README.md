@@ -148,9 +148,14 @@ Which department has the maximum number of employees?
 
 
 ```
-assets/Home.png
-assets/query1.png
-assets/query2.png
+
+![Home Page](assets/Home.png)
+
+
+![Query 1](assets/query1.png)
+
+
+![Query 2](assets/query2.png)
 ```
 
 ---
